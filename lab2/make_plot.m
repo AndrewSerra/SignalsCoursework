@@ -1,4 +1,4 @@
-function make_plot(x_data, y_data, graph_title, x_label,  y_label, x2_data ,y2_data, y2_marker)
+function make_plot(x_data, y_data, graph_title, x_label, y_label, x2_data, y2_data, y2_marker)
     global fig_num;
     figure(fig_num);
     fig_num = fig_num + 1;
